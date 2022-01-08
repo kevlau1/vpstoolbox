@@ -260,7 +260,7 @@ function xrayronekey(){
 
 function rulelist(){
     cd /etc/XrayR
-    wget https://raw.githubusercontent.com/wdm1732418365/rulelist/main/rulelist
+    wget https://raw.githubusercontent.com/kevlau1/vpstoolbox/main/rulelist
     sudo sed -i 's/RuleListPath:/RuleListPath: \/etc\/XrayR\/rulelist/g' /etc/XrayR/config.yml
     xrayr restart
 }
