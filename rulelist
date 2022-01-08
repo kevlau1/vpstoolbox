@@ -13,6 +13,5 @@ Private Tracker protocol
 (^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
 (.*\.||)(gash)\.(com|tw)
 (.*\.||)(mycard)\.(com|tw)
-(.*\.||)(taobao)\.(com)
 (.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 (.*\.||)(rising|kingsoft|duba|xindubawukong|jinshanduba)\.(com|net|org)
